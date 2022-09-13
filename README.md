@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
 <div align="center" >
   <img  src="./background/background.png" width="900px" heigth="300px"></img>
 </div>
@@ -36,9 +34,9 @@
   <img align="center" alt="Joao-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="Joao-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />   
 </div>
-  
 
-  
+##
+
  <h1 align="center">Contact and Social Media</h1>
 <div align="center"> 
   <a href = "mailto:jjvictorac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -48,9 +46,3 @@
  
 </div>
 
-<style>
-  div{
-    margin-bottom: 50px;
-  }
-
-</style>
