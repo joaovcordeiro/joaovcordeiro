@@ -1,9 +1,21 @@
 ## Olã eu sou o João, Desenvolvedor Web Full-Stack!
+
+<h1 align="center">My Github Status</h1>
 <div align="center">
   <a href="https://github.com/joaovcordeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovcordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovcordeiro&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovcordeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovcordeiro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+<div align="center">
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaovcordeiro&theme=tokyonight&hide_border=true&locale=en)](https://git.io/streak-stats)
+
+</div>
+
+##
+
+<h1 align="center">Technology Stack</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
