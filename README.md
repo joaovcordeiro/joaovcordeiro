@@ -10,9 +10,7 @@
 </div>
 
 <div align="center">
-
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaovcordeiro&theme=tokyonight&hide_border=true&locale=en)](https://git.io/streak-stats)
-
 </div>
 
 ##
@@ -45,4 +43,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
