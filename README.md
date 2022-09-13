@@ -1,11 +1,3 @@
-<style>
-  div{
-    margin-bottom: 50px;
-  }
-
-</style>
-
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 <div align="center" >
@@ -56,5 +48,9 @@
  
 </div>
 
+<style>
+  div{
+    margin-bottom: 50px;
+  }
 
-
+</style>
