@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
 <div align="center" >
   <img  src="./background/background.png" width="900px" heigth="300px"></img>
 </div>
@@ -12,9 +10,7 @@
 </div>
 
 <div align="center">
-
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joaovcordeiro&theme=tokyonight&hide_border=true&locale=en)](https://git.io/streak-stats)
-
 </div>
 
 ##
@@ -37,8 +33,6 @@
   <img align="center" alt="Joao-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />   
 </div>
   
-
-  
  <h1 align="center">Contact and Social Media</h1>
 <div align="center"> 
   <a href = "mailto:jjvictorac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -47,10 +41,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-<style>
-  div{
-    margin-bottom: 50px;
-  }
-
-</style>
