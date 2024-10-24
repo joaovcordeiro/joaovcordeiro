@@ -1,6 +1,4 @@
-<div align="center" >
-  <img  src="./background/background.png" width="900px" heigth="300px"></img>
-</div>
+
 
 <h1 align="center">My Github Status</h1>
 <div align="center">
